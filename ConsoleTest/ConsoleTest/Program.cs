@@ -12,6 +12,7 @@ namespace ConsoleTest
         {
             Console.WriteLine("TFS 2013 with GIT rocks");
             Console.WriteLine("Feature1 changes");
+            Console.WriteLine("Additional Feature1 changes");
         }
     }
 }
