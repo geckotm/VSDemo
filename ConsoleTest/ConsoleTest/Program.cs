@@ -14,6 +14,7 @@ namespace ConsoleTest
             Console.WriteLine("Feature1 changes");
             Console.WriteLine("Additional Feature1 changes");
             Console.WriteLine("Feature1.1 changes");
+            Console.WriteLine("Another change to commit from command line");
         }
     }
 }
